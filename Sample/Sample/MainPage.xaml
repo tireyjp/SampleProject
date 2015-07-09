@@ -9,7 +9,9 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid>
-            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+            </Grid.ColumnDefinitions>
         </Grid>
     </Grid>
 </Page>
